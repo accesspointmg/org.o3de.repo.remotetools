@@ -6,7 +6,10 @@
 #
 #
 
-o3de_gem_setup()
+# Platform specific files for Emscripten
+# i.e. ../Source/Emscripten/RemoteToolsEmscripten.cpp
+#      ../Source/Emscripten/RemoteToolsEmscripten.h
+#      ../Include/Emscripten/RemoteToolsEmscripten.h
 
-add_subdirectory(Code)
-
+set(FILES
+)
