@@ -94,7 +94,7 @@
     "overlays": []
   },
   "source_control": {
-    "git": "https://github.com/accesspointmg/o3de-remotetools.git",
+    "git": "https://github.com/accesspointmg/org.o3de.repo.remotetools.git",
     "branch": "2.0.0"
   }
 }
